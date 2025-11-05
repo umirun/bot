@@ -1,0 +1,89 @@
+{
+    "users": {
+        "6407919120": {
+            "balance": 30000,
+            "referrals": 0,
+            "username": "UMIRUN"
+        },
+        "6401625058": {
+            "balance": 0,
+            "referrals": 0,
+            "username": "GAYRAT_SILA"
+        },
+        "6038197038": {
+            "balance": 0,
+            "referrals": 0,
+            "username": "deploy11"
+        },
+        "7498123726": {
+            "balance": 0,
+            "referrals": 0,
+            "username": "NightMareUzb"
+        }
+    },
+    "websites": [
+        {
+            "id": 2,
+            "name": "Portfel (Portfolio) sayti",
+            "description": "Freelancerlar uchun shaxsiy ishlar portfeli. Loyihalarni vizual ko'rsatish va tezkor aloqa bo'limlari.",
+            "price": 80000,
+            "file_id": "BQACAgIAAxkBAAN9aQuGmwL2zuVtx7lGsYkjOmuWCMIAArSIAAK-zWBIvAuprTaKe1I2BA",
+            "media_id": "BAACAgIAAxkBAAOCaQuG7X6BJPLjETRJjlDPxtXM6zsAArmIAAK-zWBIHT0ZR9Xuk4g2BA",
+            "media_type": "video"
+        }
+    ],
+    "quiz_questions": [
+        {
+            "question": "HTML da rasm qanday teg yordamida qo'yiladi?",
+            "options": [
+                "<image>",
+                "<img>",
+                "<picture>",
+                "<src>"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Python dasturlash tilining yaratuvchisi kim?",
+            "options": [
+                "Dennis Ritchie",
+                "Bjarne Stroustrup",
+                "Guido van Rossum",
+                "James Gosling"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "CSS qisqartmasi nimani anglatadi?",
+            "options": [
+                "Computer Style Sheets",
+                "Creative Style Sheets",
+                "Cascading Style Sheets",
+                "Colorful Style Sheets"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "O'zbekiston Respublikasining poytaxti qayer?",
+            "options": [
+                "Samarqand",
+                "Buxoro",
+                "Farg'ona",
+                "Toshkent"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "question": "1 kilobayt necha baytga teng?",
+            "options": [
+                "1000",
+                "1024",
+                "1048",
+                "1100"
+            ],
+            "correct_answer": "B"
+        }
+    ],
+    "next_site_id": 4,
+    "next_user_id": 1
+}
